@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Uicomponents
+parent: UI Components
 nav_order: 1
 ---
 # welcome
