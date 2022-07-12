@@ -37,4 +37,31 @@ nav_order: 3
       </ul>
     </td>
   </tr>
+  <tr>
+    <th align="left">Buck integrates with but is not an:</th>
+    <th></th>
+    <th align="left">Hosting Services</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Investment Manager</li>
+        <li>Broker / Dealer</li>
+        <li>Trustee / Custodian</li>
+        <li>Transfer Agent / Payment Agent</li>
+      </ul>
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li>Systems management</li>
+        <li>Data backup and recovery</li>
+        <li>Disaster recovery services</li>
+        <li>Security administration</li>
+        <li>CSAE 3416 / SSAE 18 certification</li>
+        <li>Hardware evergreen</li>
+      </ul>
+    </td>
+  </tr>
 </table>
