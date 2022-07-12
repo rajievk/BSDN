@@ -24,7 +24,9 @@ nav_order: 3
         <li>Contact centre services</li>
       </ul>
     </td>
-    <td><img src="https://user-images.githubusercontent.com/20475336/178588071-5589f2aa-ec05-4433-b814-8082a73d320b.png"></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178588071-5589f2aa-ec05-4433-b814-8082a73d320b.png">
+    </td>
     <td>
       <ul>
         <li>Record keeping, administration and trading software(FundSERV and CameronFIX)</li>
