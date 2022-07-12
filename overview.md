@@ -60,3 +60,46 @@ nav_order: 2
 
 ![image](https://user-images.githubusercontent.com/20475336/178560874-944fadac-b912-41cd-86ea-d5df2023a3bd.png)
 
+## Key Staff
+
+<table>				
+<tr>
+  <th align="left">Administration</th>
+  <th align="left">Technology/Platform</th>
+</tr>
+<tr>
+  <td>Chris Bray – Service Delivery Leader</td>
+  <td>Jim Reid – Consultant</td>
+</tr>
+<tr>
+  <td>Teresa Canha – Client Service Manager</td>
+  <td>Hanh Ong – Software Developer</td>
+</tr>
+<tr>
+  <td>Mike Molloy – Client Service Manager</td>
+  <td>Biljana Janev – Project Manager / Business Analyst</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Dan Hotopeleanu – Portal / FIX / FundSERV Developer</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Michael Cheung – DES / DBMS Developer</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Alex Streminsky – Report Developer</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Jayshri Shah – QA Analyst</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Irina Yagupolsky – QA Analyst</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Willa Leung – QA Analyst</td>
+</tr>
