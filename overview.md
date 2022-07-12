@@ -10,5 +10,49 @@ nav_order: 2
 
 ![image](https://user-images.githubusercontent.com/20475336/178542256-a78d6848-86d4-47fa-8748-0423fe1c9a04.png)
 
-
-
+<table>				
+<tr>
+  <th>White labelled</th>
+  <th>Direct</th>
+</tr>
+<tr>
+  <td>Co-operators</td>
+  <td>Bank of Montreal</td>
+</tr>
+<tr>
+  <td>CUMIS</td>
+  <td>TD Bank</td>
+</tr>
+<tr>
+  <td>Royal Trust (RBC)</td>
+  <td>Manulife</td>
+</tr>
+<tr>
+  <td>Open Access</td>
+  <td>Royal Bank</td>
+</tr>
+<tr>
+  <td>Desjardins</td>
+  <td>WSIB</td>
+</tr>
+<tr>
+  <td>Blue Pier</td>
+  <td>Bruce Power</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Colgate</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Becton Dickinson</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Pilkington Glass</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Apergy Energy</td>
+</tr>
+</table>
