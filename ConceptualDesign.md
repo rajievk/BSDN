@@ -52,7 +52,6 @@ nav_order: 3
       </ul>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/20475336/178592304-40a3f4d7-cc86-460f-9a3f-6fb48a1647d2.png">
     </td>
     <td>
       <ul>
