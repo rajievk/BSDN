@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Home
+title: About BASIS
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description:
 permalink: /
 ---
 
-## Welcome to GitHub Pages
+## What is BASIS
 
-You can use the [editor on GitHub](https://rajievk.github.io/bsdn/overview) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Defined Contribution (DC) and Equity record keeping and administration system.
+- Used primarily for Canadian clients but is also used for global share ownership plans and U.S. wellness incentive plans
+- In use since 1998
 
 ### Markdown
 
