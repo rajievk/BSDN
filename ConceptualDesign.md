@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 ## Business Overview
-
+<hr/>
 <table>
   <tr>
     <th align="left">Administration Services</th>
@@ -67,7 +67,7 @@ nav_order: 3
 </table>
 
 ## Entity Relationships
-
+</hr>
 <table>
   <tr>
     <td>
@@ -77,7 +77,7 @@ nav_order: 3
 </table>
 
 ## Functional Overview
-
+</hr>
 <table>
   <tr>
     <td>
