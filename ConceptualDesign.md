@@ -65,3 +65,13 @@ nav_order: 3
     </td>
   </tr>
 </table>
+
+## Entity Relationships
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178596588-e7b2d4b1-9d55-4c5c-83d1-cb10a6ea29b0.png">
+    </td>
+  </tr>
+</table>
