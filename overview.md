@@ -12,8 +12,8 @@ nav_order: 2
 
 <table>				
 <tr>
-  <th>White labelled</th>
-  <th>Direct</th>
+  <th align="left">White labelled</th>
+  <th align="left">Direct</th>
 </tr>
 <tr>
   <td>Co-operators</td>
