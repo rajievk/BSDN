@@ -67,7 +67,7 @@ nav_order: 3
 </table>
 
 ## Entity Relationships
-</hr>
+<hr/>
 <table>
   <tr>
     <td>
@@ -77,7 +77,7 @@ nav_order: 3
 </table>
 
 ## Functional Overview
-</hr>
+<hr/>
 <table>
   <tr>
     <td>
