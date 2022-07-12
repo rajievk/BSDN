@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 ## Historical Overview
-
+<hr style="margin-top: 0;margin-bottom: 2rem;"/>
 <table>
   <tr>
     <td>
@@ -20,7 +20,7 @@ nav_order: 2
 </table>
 
 ## Clients
-
+<hr style="margin-top: 0;margin-bottom: 2rem;"/>
 <table>				
 <tr>
   <th align="left">White labelled</th>
@@ -71,7 +71,7 @@ nav_order: 2
 ![image](https://user-images.githubusercontent.com/20475336/178560874-944fadac-b912-41cd-86ea-d5df2023a3bd.png)
 
 ## Key Staff
-
+<hr style="margin-top: 0;margin-bottom: 2rem;"/>
 <table>				
 <tr>
   <th align="left">Administration</th>
