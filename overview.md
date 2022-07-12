@@ -56,3 +56,5 @@ nav_order: 2
   <td>Apergy Energy</td>
 </tr>
 </table>
+![image](https://user-images.githubusercontent.com/20475336/178560874-944fadac-b912-41cd-86ea-d5df2023a3bd.png)
+
