@@ -6,9 +6,23 @@ nav_order: 3
 
 ## Business Overview
 
-<table border="0">
+<table>
   <tr>
     <th>Administration Services</th>
     <th>Software and Support Services</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Data management and transaction processing</li>
+        <li>Valuation, trade, settlement, processing</li>
+        <li>Reconciliation</li>
+        <li>Reporting and member communication</li>
+        <li>Tax receipt issuance and reporting</li>
+        <li>Fulfillment services</li>
+        <li>Contact centre services</li>
+      </ul>
+    </td>
+    <td></td>
   </tr>
 </table>
