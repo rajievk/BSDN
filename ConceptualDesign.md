@@ -83,5 +83,26 @@ nav_order: 3
     <td>
       <img src="https://user-images.githubusercontent.com/20475336/178596968-4b892f89-bb88-4f95-9ade-ebef17fe8984.png">
     </td>
+     <td>
+      <table>
+        <tr>
+          <th>
+            Components
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <ul>
+              <li><b>ISS:</b> Authentication and authorization</li>
+              <li><b>Portal:</b> View and transaction layer</li>
+              <li><b>DES:</b> Data entry system / transaction repository</li>
+              <li><b>BASIS:</b> Valuation system</li>
+              <li><b>Scheduler:</b> Batch processing system</li>
+              <li><b>FRS:</b> Forms, reports and statements system</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
