@@ -9,37 +9,23 @@ permalink: /
 ## What is BASIS
 
 - Defined Contribution (DC) and Equity record keeping and administration system.
-- Used primarily for Canadian clients but is also used for global share ownership plans and U.S. wellness incentive plans
-- In use since 1998
+- Used primarily for Canadian clients but is also used for global share ownership plans and U.S. wellness incentive plans.
+- In use since 1998.
+- Installed and operated in Toronto (data centre).
 
-### Markdown
+## What is a Defined Contribution (DC) plan?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Employer sponsored pension or savings plan that allows employees to invest a portion of their salary/earnings through payroll deduction.
+- Generally, the employer will match all or a portion of the employee’s investment into the plan.
+- Generally, there is a maximum amount of money an employee can invest each pay and on an annual basis
+- Generally, the employee choses the investment funds they want to invest in
+- Generally, there are rules in place regarding how and when withdrawals can be made from the plan
+- Tax consequences vary by plan type
 
-```markdown
-Syntax highlighted code block
+## What is an Equity and Awarded Equity plan?
+- Also referred to as share ownership or share purchase plans.
+- Employees purchase company stock in a similar manner as a Defined Contribution (DC) plan.
+- Some plans offer a discounted purchase price.
+- Generally, involves stock dividends.
+- Awarded Equity includes stock option plans, restricted and performance share unit plans.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajievk/bsdn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
