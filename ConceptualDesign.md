@@ -23,6 +23,12 @@ nav_order: 3
         <li>Contact centre services</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <li>Record keeping, administration and trading software(FundSERV and CameronFIX)</li>
+      <li>Compliance with Canadian laws and regulations</li>
+      <li>Upgrades and enhancements</li>
+      <li>Operational and infrastructure support</li>
+      <li>Training</li>
+    </td>
   </tr>
 </table>
