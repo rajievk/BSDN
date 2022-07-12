@@ -8,8 +8,8 @@ nav_order: 3
 
 <table>
   <tr>
-    <th allign="left">Administration Services</th>
-    <th allign="left">Software and Support Services</th>
+    <th align="left">Administration Services</th>
+    <th align="left">Software and Support Services</th>
   </tr>
   <tr>
     <td>
