@@ -24,7 +24,7 @@ nav_order: 3
         <li>Contact centre services</li>
       </ul>
     </td>
-    <td>
+    <td style="text-align: center !important;">
       <img src="https://user-images.githubusercontent.com/20475336/178588071-5589f2aa-ec05-4433-b814-8082a73d320b.png">
     </td>
     <td>
@@ -52,6 +52,7 @@ nav_order: 3
       </ul>
     </td>
     <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178592304-40a3f4d7-cc86-460f-9a3f-6fb48a1647d2.png">
     </td>
     <td>
       <ul>
