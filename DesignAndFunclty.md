@@ -117,3 +117,12 @@ nav_order: 5
     </td>
   </tr>
 </table>
+
+### Rules Configuration
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178780956-e12ac32e-b35c-4685-922c-0368692064bd.png">
+    </td>
+  </tr>
+</table>
