@@ -1,3 +1,15 @@
 .side-bar {
     width: calc((100% - 1064px) / 2 + 150px) !important;
 }
+
+@media (min-width: 66.5rem)
+.main {
+    margin-left: calc( (100% - 1064px) / 2 + 150px );
+}
+
+@media (min-width: 50rem)
+.main {
+    position: relative;
+    
+    margin-left: 248px;
+}
