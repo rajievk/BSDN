@@ -7,7 +7,8 @@ nav_order: 5
 ## Primary Identifiers
 <hr class="hr-no-bottom-margin"/>
 
-### Master Client Versus Super Client Versus Direct Client
+#### Master Client Versus Super Client Versus Direct Client
+<hr class="hr-no-bottom-margin"/>
 <ul>
   <li>Master client and super client are associated with white-labelled clients.</li>
   <li>Client is associated with directly managed clients.</li>
