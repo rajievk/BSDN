@@ -63,3 +63,26 @@ nav_order: 5
   <td>Apergy Energy (3305)</td>
 </tr>
 </table>
+
+### Master Client and Super Client Structure
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178753027-822e3813-3104-47b9-8321-339b250d7801.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178753101-76806fd5-678e-47f0-b154-59ee49c6c8ca.png">
+    </td>
+    <td>
+        Plans
+      <ul>
+        <li>Super clients are linked to a master client by
+          DCP_CLIENTS_TABLE.EIN and
+          DCP_CLIENTS_TABLE.REGION</li>
+      <li>Employers are linked together by
+          DCP_PLAN_NAME_TABLE.EIN</li>
+      </ul>
+    </td>
+  </tr>
+</table>
