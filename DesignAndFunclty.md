@@ -113,7 +113,7 @@ nav_order: 5
   </tr>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/20475336/178779533-212172dc-9933-4ad9-aadb-d997f8da99af.png">
+      <img src="https://user-images.githubusercontent.com/20475336/178779995-d16b48d7-3b4f-4899-8a12-d6acc6e9793a.png">
     </td>
   </tr>
 </table>
