@@ -16,7 +16,6 @@ nav_order: 5
 </ul>
 
 ### Clients
-<hr class="hr-no-bottom-margin"/>
 <table>				
 <tr>
   <th align="left">White labelled</th>
