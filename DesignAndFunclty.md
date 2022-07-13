@@ -85,3 +85,12 @@ nav_order: 5
     </td>
   </tr>
 </table>
+
+### Direct Client Structure
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178778364-d835c609-4a68-4b83-b525-2399f1ec709c.png">
+    </td>
+  </tr>
+</table>
