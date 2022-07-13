@@ -28,3 +28,8 @@ nav_order: 4
 
 ## Transaction Flow
 <hr class="hr-no-bottom-margin"/>
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/20475336/178732781-8d1f1782-1a90-4178-ab8c-fc5128931f16.png"></td>
+  </tr>
+</table>
