@@ -15,3 +15,13 @@ nav_order: 6
     </td>
   </tr>
 </table>
+
+### Valuation Instructions
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/178829429-a7e3ab75-c45f-41b4-8bea-69191a1b1723.png">
+    </td>
+  </tr>
+</table>
