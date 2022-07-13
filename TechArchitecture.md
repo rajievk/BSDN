@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 ## Technology Architecture
-<hr style="margin-top: 0;margin-bottom: 2rem;"/>
+<hr style="hr-no-bottom-margin"/>
 
 <table>
   <tr>
@@ -27,4 +27,4 @@ nav_order: 4
 </table>
 
 ## Transaction Flow
-<hr style="margin-top: 0;margin-bottom: 2rem;"/>
+<hr style="hr-no-bottom-margin"/>
