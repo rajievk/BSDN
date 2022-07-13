@@ -8,7 +8,7 @@ nav_order: 5
 <hr class="hr-no-bottom-margin"/>
 
 #### Master Client Versus Super Client Versus Direct Client
-<hr class="hr-no-bottom-margin"/>
+</br>
 <ul>
   <li>Master client and super client are associated with white-labelled clients.</li>
   <li>Client is associated with directly managed clients.</li>
@@ -17,6 +17,7 @@ nav_order: 5
 </ul>
 
 ### Clients
+
 <table>				
 <tr>
   <th align="left">White labelled</th>
@@ -97,6 +98,7 @@ nav_order: 5
 </table>
 
 ### Client, Plan, Fund, Account
+
 <table>
   <tr>
     <td>
@@ -106,6 +108,7 @@ nav_order: 5
 </table>
 
 ### Participant Identifiers
+
 <table>
   <tr>
     <td>
