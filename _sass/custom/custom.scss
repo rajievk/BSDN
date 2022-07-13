@@ -5,9 +5,5 @@
 @media (min-width: 66.5rem)
 .main {
     margin-left: calc( (100% - 1064px) / 2 + 150px ) !important;
-}
-
-@media (min-width: 50rem)
-.main {
     max-width: auto !important;
 }
