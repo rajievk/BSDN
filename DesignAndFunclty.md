@@ -9,8 +9,6 @@ nav_order: 5
 
 ### Master Client Versus Super Client Versus Direct Client
 
-</br>
-
 <ul>
   <li>Master client and super client are associated with white-labelled clients.</li>
   <li>Client is associated with directly managed clients.</li>
