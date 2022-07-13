@@ -1,5 +1,6 @@
 .side-bar {
     width: calc((100% - 1064px) / 2 + 150px) !important;
+    background-color: #f60773 !important;
 }
 
 @media (min-width: 66.5rem){
@@ -9,5 +10,5 @@
     }
 }
 a {
-    color : #f60773 !important;
+    color : #fff !important;
 }
