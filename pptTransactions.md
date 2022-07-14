@@ -65,3 +65,8 @@ nav_order: 7
 
 - Withdrawals can be requested by specific account and fund, or can be requested by hierarchy (prescribed take-out order).
 
+## Oracle Tables
+<hr class="hr-no-bottom-margin"/>
+
+![image](https://user-images.githubusercontent.com/20475336/179074229-2f00b602-ecca-44ac-9358-45bb0b24818d.png)
+
