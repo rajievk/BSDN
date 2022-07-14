@@ -68,5 +68,11 @@ nav_order: 7
 ## Oracle Tables
 <hr class="hr-no-bottom-margin"/>
 
-![image](https://user-images.githubusercontent.com/20475336/179074229-2f00b602-ecca-44ac-9358-45bb0b24818d.png)
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/179074229-2f00b602-ecca-44ac-9358-45bb0b24818d.png">
+    </td>
+  </tr>
+</table>
 
