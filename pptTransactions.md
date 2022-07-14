@@ -49,3 +49,13 @@ nav_order: 7
 - Tax consequences (excluding rollovers) on withdrawals.
 - Plan rules may restrict the frequency of withdrawals and may also apply a holding period on assets.
 - Transaction fees may apply.
+
+## Vesting
+<hr class="hr-no-bottom-margin"/>
+
+- Time-based formula used to determine when employer contributions (assets) become unconditionally owned by the participant
+- Applies only to employer accounts
+</br>-Cliff (i.e. 2 years from date of hire).
+</br>-Graded (i.e. 4 years from date of hire, 25%, 50%, 75%, 100%).
+</br>-Rolling (i.e. 12 months from date of contribution).
+- Upon termination, unvested assets are forfeited and returned to the employer
