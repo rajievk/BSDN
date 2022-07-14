@@ -23,5 +23,4 @@ nav_order: 3
 - Column 8 is the starting position for DIVISIONS, SECTIONS and data definitions.
 - Column 12 is the starting position for procedure statements.
 - Column 72 is the last valid position for procedure statements.
-
 - **All data definitions and statements must end with a period (.) before column 73**.
