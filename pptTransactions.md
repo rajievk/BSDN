@@ -59,7 +59,7 @@ nav_order: 7
 <br/>-Graded (i.e. 4 years from date of hire, 25%, 50%, 75%, 100%).
 <br/>-Rolling (i.e. 12 months from date of contribution).
 - Upon termination, unvested assets are forfeited and returned to the employer.
-- 
+
 ## In-Service Withdrawals
 <hr class="hr-no-bottom-margin"/>
 
