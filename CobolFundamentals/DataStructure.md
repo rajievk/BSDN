@@ -20,3 +20,16 @@ nav_order: 4
 - V = Implied decimal place.
 - COMP-3 = required for host variables with decimals defined in DECLARE SECTION (embedded SQL).
 - COMP-5 = required for all other private, public and host variables without decimals.
+
+## COBOL Data Arrays
+<hr class="hr-no-bottom-margin"/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/20475336/179085726-feddab33-1293-416d-826d-126e29b6dddf.png">
+    </td>
+  </tr>
+</table>
+
+**Fields in arrays are accessed by a subscript – X-FIELD-1 (87) or X-FIELD-1(X1) where X1 is a variable**
