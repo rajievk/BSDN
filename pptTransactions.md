@@ -26,17 +26,17 @@ nav_order: 7
 ## Withdrawals
 <hr class="hr-no-bottom-margin"/>
 
-- Termination including retirement, death, disability, plan closure and redundancy
+- Termination including retirement, death, disability, plan closure and redundancy.
   <br/>-All plan assets are sold or transferred out of the plan in-kind.
   <br/>-Participant leaves the plan.
-- In-Service Withdrawal
+- In-Service Withdrawal.
   <br/>-All or partial assets are sold or transferred out of the plan in-kind.
   <br/>-Participant remains in the plan.
-- Transfer of assets to another registered plan (rollover)
+- Transfer of assets to another registered plan (rollover).
   <br/>-Only applies to registered plans.
   <br/>-Typically, assets are sold in the plan and then the cash proceeds are transferred to the receiving institution; however, assets can be transferred in-kind if           permitted.
   <br/>-No taxes.
-- Withdrawal payable to the participant
+- Withdrawal payable to the participant.
   <br/>-Applies to both registered (eligible events) and non-registered plans.
   <br/>-Assets are sold in the plan and the cash proceeds are paid directly to the participant in the form of a cheque or electronically deposited into their bank             account.
   <br/>-Taxes are deducted.
@@ -53,9 +53,12 @@ nav_order: 7
 ## Vesting
 <hr class="hr-no-bottom-margin"/>
 
-- Time-based formula used to determine when employer contributions (assets) become unconditionally owned by the participant
-- Applies only to employer accounts
+- Time-based formula used to determine when employer contributions (assets) become unconditionally owned by the participant.
+- Applies only to employer accounts.
 <br/>-Cliff (i.e. 2 years from date of hire).
 <br/>-Graded (i.e. 4 years from date of hire, 25%, 50%, 75%, 100%).
 <br/>-Rolling (i.e. 12 months from date of contribution).
-- Upon termination, unvested assets are forfeited and returned to the employer
+- Upon termination, unvested assets are forfeited and returned to the employer.
+## In-Service Withdrawals
+- Withdrawals can be requested by specific account and fund, or can be requested by hierarchy (prescribed take-out order).
+
