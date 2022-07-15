@@ -29,3 +29,12 @@ nav_order: 6
 </td>
 </tr>
 </table>
+
+- **All embedded SQL begins and ends with the following:**
+<table>
+<tr>
+<td>
+<img src="https://user-images.githubusercontent.com/20475336/179176768-c29f6d50-9a3d-479c-8c67-0b3146444024.png">
+</td>
+</tr>
+</table>
