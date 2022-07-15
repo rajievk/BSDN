@@ -17,3 +17,15 @@ nav_order: 6
 </td>
 </tr>
 </table>
+
+## Procedure Division
+<hr class="hr-no-bottom-margin"/>
+
+- **Error handling directives must be included**
+<table>
+<tr>
+<td>
+<img src="https://user-images.githubusercontent.com/20475336/179175285-452394ff-4b9e-4f37-811a-17dc2e813068.png">
+</td>
+</tr>
+</table>
