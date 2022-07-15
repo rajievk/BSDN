@@ -40,7 +40,7 @@ nav_order: 5
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/20475336/179087175-e1195797-68b6-45ce-a825-41ae22724023.png">
+      <img src="https://user-images.githubusercontent.com/20475336/179170075-546f3c09-cfbe-4441-8fd0-cd02192e1e9a.png">
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ nav_order: 5
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/20475336/179169859-7ba32866-257d-49dc-b78a-6d59cdd8d423.png">
+      <img src="https://user-images.githubusercontent.com/20475336/179170200-e83e0e67-7015-4050-9dfe-df81914a1d23.png">
     </td>
   </tr>
 </table>
