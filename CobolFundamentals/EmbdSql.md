@@ -9,6 +9,7 @@ nav_order: 6
 <hr class="hr-no-bottom-margin"/>
 
 - **Declare host variables that are required for WHERE, INTO statements**
+
 <table>
 <tr>
 <td>
