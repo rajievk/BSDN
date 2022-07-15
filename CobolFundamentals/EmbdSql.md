@@ -8,10 +8,11 @@ nav_order: 6
 ## Data Division
 <hr class="hr-no-bottom-margin"/>
 
+- **Declare host variables that are required for WHERE, INTO statements**
 <table>
 <tr>
 <td>
-<img src="">
+<img src="https://user-images.githubusercontent.com/20475336/179172827-32e6992d-77e3-4a6a-beef-36ee16063ce3.png">
 </td>
 </tr>
 </table>
