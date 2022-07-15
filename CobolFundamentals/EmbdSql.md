@@ -8,7 +8,7 @@ nav_order: 6
 ## Data Division
 <hr class="hr-no-bottom-margin"/>
 
-- **Declare host variables that are required for WHERE, INTO statements**
+**Declare host variables that are required for WHERE, INTO statements**
 
 <table>
 <tr>
@@ -21,7 +21,7 @@ nav_order: 6
 ## Procedure Division
 <hr class="hr-no-bottom-margin"/>
 
-- **Error handling directives must be included**
+**Error handling directives must be included**
 <table>
 <tr>
 <td>
@@ -30,7 +30,7 @@ nav_order: 6
 </tr>
 </table>
 
-- **All embedded SQL begins and ends with the following:**
+**All embedded SQL begins and ends with the following:**
 <table>
 <tr>
 <td>
