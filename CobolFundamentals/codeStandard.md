@@ -40,3 +40,8 @@ nav_order: 7
 - Array subscripts are defined using X1 through X99 variables
 
 ## Procedure Division
+
+- Sections are numerically prefixed – 0100-, 0200-, 0300-
+- Adequate spacing should be provided in the code block for easier readability
+- Keep Section code blocks manageable (i.e. not too many lines of code)
+- Use variables LIT-B-0 through LIT-B-99 in place of hard-coded values
