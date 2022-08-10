@@ -38,3 +38,12 @@ nav_order: 6
 </td>
 </tr>
 </table>
+
+**Inserting records into an Oracle table from host variables**
+<table>
+<tr>
+<td>
+<img src="https://user-images.githubusercontent.com/20475336/183892923-cf9bcdb3-7864-4237-bb93-f01494638eb1.png">
+</td>
+</tr>
+</table>
